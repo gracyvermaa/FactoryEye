@@ -1,0 +1,1 @@
+data/raw/\ndata/processed/\nmodels/checkpoints/\nmodels/outputs/\nlogs/\n*.db\n.env\n.venv/\nvenv/\n__pycache__/\n*.py[cod]\nnode_modules/\nfrontend/dist/\n
